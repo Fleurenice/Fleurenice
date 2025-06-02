@@ -17,7 +17,7 @@ Table of Contents:
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h3> 🔗 Cyber Threat Intelligent </h3>
+<h3> 🔗 Cyber Threat Intelligent (CTI) </h3>
 
 <h3> 📜 CTI Credentials </h3>
 
@@ -30,8 +30,11 @@ Hands-on Labs in:
 + Threat modeling, treat landscaping & treat profilling.
 + Scoring and charting priority intelligence requirements 
 
+<h3> 🗒️ Tradecraft Notes & Outlines </h3>
 
-## Hi there 👋
+
+
+<h3>🧑‍💻 OSINT & Supplemental Work in Philosophy Writing </h3>
 
 <!--
 **Fleurenice/Fleurenice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
