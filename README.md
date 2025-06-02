@@ -19,7 +19,7 @@ Table of Contents:
 
 <h3> 🔗 Cyber Threat Intelligent (CTI) </h3>
 
-<h3> 📜 [CTI Credentials](https://github.com/Fleurenice#--cti-credentials-)</h3>
+### 📜 [CTI Credentials](https://github.com/Fleurenice#--cti-credentials-)
 
 <ins>Cyber Threat Intelligent 101</ins>| <b> Antisyphon training </b> - Mr. Wade wells illustrated why feedback is key. The Lockheed Kill Chain, Pyramid of Pain, Threat intelligence platform and OSINT feeds.
 
