@@ -36,6 +36,12 @@ Hands-on Labs in:
 
 <h3>🧑‍💻 OSINT & Supplemental Work in Philosophy Writing </h3>
 
+### Reporting Notes
+
+### Lifecycle Notes 
+
+- Note 1: [Cyber Threat Intelliggence Lifecycle](https://github.com/Fleurenice/CTI-Lifecycle-Notes-1?tab=readme-ov-file#readme)
+
 <!--
 **Fleurenice/Fleurenice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
