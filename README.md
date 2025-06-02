@@ -11,7 +11,7 @@ Feel free to CLICK ON A LINK that intrests you...
 Table of Contents: 
 🔗 Cyber Threat Intelligence (CTI) 
 
-+ 📜 [Credentials](https://github.com/Fleurenice#--cti-credentials-)| 🎤 Confrences Attended | 🏡 Home Lab: Threat Intelligence Feeds 
++ 📜 [Credentials](https://github.com/Fleurenice#-credentials) | 🎤 Confrences Attended | 🏡 Home Lab: Threat Intelligence Feeds 
 + 🗒️ Tradecraft Notes & Outlines | 🤖 A.I Reports
 + 🧑‍💻 OSINT & Supplemental Work in Philosophy Writing | Academic Research Experience 
 
